@@ -13,9 +13,9 @@ https://pub.dev/packages/flutter_modular
 --
 https://pub.dev/packages/hive
 
-[[Dio]]
+[[Requisitos Funcionais]]
 --
-https://pub.dev/packages/dio | [[Dio]]
+https://pub.dev/packages/dio | [[Requisitos Funcionais]]
 
 [[Clean Architecture]]
 --
