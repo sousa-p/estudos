@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "181122dff48a4fd2",
+        "id": "3b9e5bcd5bcb5ccb",
         "type": "tabs",
         "children": [
           {
-            "id": "33e23d4ed9874773",
+            "id": "32a58872b6ea6b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conteudos/Projeto Integrador/2024-02-27.md",
+                "file": "conteudos/Estrutura de Dados/2024-02-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudos/Projeto Integrador/2024-02-27.md",
+                "file": "conteudos/Estrutura de Dados/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudos/Projeto Integrador/2024-02-27.md",
+                "file": "conteudos/Estrutura de Dados/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudos/Projeto Integrador/2024-02-27.md"
+                "file": "conteudos/Estrutura de Dados/2024-02-29.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "96f2f5023b08fafe",
   "lastOpenFiles": [
+    "conteudos/Interação Humano Computador/2024-02-27.md",
+    "conteudos/Estrutura de Dados/2024-02-29.md",
+    "conteudos/Estrutura de Dados",
     "conteudos/Projeto Integrador/2024-02-20.md",
-    "conteudos/Projeto Integrador/2024-02-27.md",
     "conteudos/Organizações de Computadores e SOs/2024-02-26.md",
     "conteudos/Projeto Integrador/Livros.md",
     "Untitled.md",
@@ -183,7 +185,6 @@
     "assets/clean_dart.png",
     "conteudos/Conceitos",
     "assets/clean_dart 1.png",
-    "assets",
     "Diário/2024-02-08.md",
     "providers.md",
     "Asp.md",
