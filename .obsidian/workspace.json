@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4e54e2952532e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudos/Arquitetura/Clean Architecture.md",
+                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudos/Arquitetura/Clean Architecture.md",
+                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudos/Arquitetura/Clean Architecture.md"
+                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md"
               }
             }
           },
@@ -155,8 +168,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96f2f5023b08fafe",
+  "active": "e4e54e2952532e13",
   "lastOpenFiles": [
+    "assets/Pasted image 20240223174010.png",
+    "assets/Pasted image 20240223172542.png",
+    "assets/Pasted image 20240223172410.png",
+    "conteudos/Arquitetura/Clean Architecture.md",
+    "conteudos/inteligencia corporativa/Modelo de negócios.md",
+    "conteudos/inteligencia corporativa",
     "assets/jakob nielsen - usability engineering.pdf",
     "assets/INTERAÇÃO HUMANO-COMPUTADOR.pdf",
     "assets/Estruturas de dados e algoritmos em JAVA.pdf",
@@ -171,17 +190,14 @@
     "conteudos/Roadmap Flutter/Hive.md",
     "conteudos/Roadmap Flutter/Dio.md",
     "conteudos/Roadmap Flutter/Flutter Modular.md",
-    "conteudos/Arquitetura/Clean Architecture.md",
     "conteudos/Conceitos/Inversão de Dependências.md",
     "conteudos/Conceitos/Classes abstratas.md",
     "conteudos/Conceitos/Classe selada.md",
     "assets/clean_dart.png",
     "conteudos/Conceitos",
     "assets/clean_dart 1.png",
-    "assets",
     "Diário/2024-02-08.md",
     "providers.md",
-    "conteudos/Arquitetura",
     "Asp.md",
     "Welcome.md"
   ]
