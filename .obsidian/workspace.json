@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3b9e5bcd5bcb5ccb",
+        "id": "181122dff48a4fd2",
         "type": "tabs",
         "children": [
           {
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
+                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
+                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md",
+                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudos/inteligencia corporativa/Modelo de negócios.md"
+                "file": "conteudos/inteligencia corporativa/startups x empreededor.md"
               }
             }
           },
@@ -159,22 +159,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "e4e54e2952532e13",
   "lastOpenFiles": [
+    "conteudos/Arquitetura/Clean Architecture.md",
+    "conteudos/inteligencia corporativa/Modelo de negócios.md",
+    "conteudos/inteligencia corporativa/startups x empreededor.md",
+    "conteudos/Organizações de Computadores e SOs/2024-02-26.md",
+    "conteudos/Interação Humano Computador/2024-02-27.md",
+    "conteudos/Estrutura de Dados/2024-02-29.md",
+    "conteudos/Estrutura de Dados",
     "assets/Pasted image 20240223174010.png",
     "assets/Pasted image 20240223172542.png",
     "assets/Pasted image 20240223172410.png",
-    "conteudos/Arquitetura/Clean Architecture.md",
-    "conteudos/inteligencia corporativa/Modelo de negócios.md",
     "conteudos/inteligencia corporativa",
     "assets/jakob nielsen - usability engineering.pdf",
     "assets/INTERAÇÃO HUMANO-COMPUTADOR.pdf",
@@ -194,7 +199,6 @@
     "conteudos/Conceitos/Classes abstratas.md",
     "conteudos/Conceitos/Classe selada.md",
     "assets/clean_dart.png",
-    "conteudos/Conceitos",
     "assets/clean_dart 1.png",
     "Diário/2024-02-08.md",
     "providers.md",
