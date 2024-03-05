@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "181122dff48a4fd2",
+        "id": "7b773bf1f2b0d370",
         "type": "tabs",
         "children": [
           {
-            "id": "33e23d4ed9874773",
+            "id": "23ca37c577b83974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conteudos/Arquitetura/Clean Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4e54e2952532e13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudos/inteligencia corporativa/startups x empreededor.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudos/inteligencia corporativa/startups x empreededor.md"
+                "file": "conteudos/Interação Humano Computador/2024-03-05.md"
               }
             }
           },
@@ -168,15 +155,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e4e54e2952532e13",
+  "active": "23ca37c577b83974",
   "lastOpenFiles": [
-    "conteudos/Arquitetura/Clean Architecture.md",
-    "conteudos/inteligencia corporativa/Modelo de negócios.md",
-    "conteudos/inteligencia corporativa/startups x empreededor.md",
-    "conteudos/Organizações de Computadores e SOs/2024-02-26.md",
+    "assets/05032024-idh-2.jpg",
     "conteudos/Interação Humano Computador/2024-02-27.md",
-    "conteudos/Estrutura de Dados/2024-02-29.md",
-    "conteudos/Estrutura de Dados",
+    "conteudos/Interação Humano Computador/2024-02-20.md",
+    "conteudos/inteligencia corporativa/Modelo de negócios.md",
+    "conteudos/Interação Humano Computador/2024-03-05.md",
+    "assets/05032024-ihc.png",
+    "Requisitos Funcionais.md",
+    "conteudos/Interação Humano Computador/Requisitos Funcionais.md",
+    "conteudos/Interação Humano Computador/Requisitos Não Funcionais.md",
+    "conteudos/Arquitetura/Clean Architecture.md",
+    "conteudos/Interação Humano Computador/Livros.md",
+    "conteudos/Interação Humano Computador/Interação Humano Computador.md",
     "assets/Pasted image 20240223174010.png",
     "assets/Pasted image 20240223172542.png",
     "assets/Pasted image 20240223172410.png",
@@ -188,7 +180,6 @@
     "assets/(ebook)Estruturas de Dados Usando C (Tenenbaum).pdf.crdownload",
     "assets/Fundamentos de metodologia científica.pdf",
     "assets/Fundamentos de metodologia científica.pdf.crdownload",
-    "assets/Arquitetura Limpa - O Guia do Artesão para Estrutura e Design de Software (Robert C. Martin) (z-lib.org).pdf",
     "conteudos/Roadmap Flutter/RxNotifier.md",
     "conteudos/Roadmap Flutter/Roadmap.md",
     "conteudos/Roadmap Flutter/Package ASP.md",
