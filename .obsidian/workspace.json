@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b773bf1f2b0d370",
+        "id": "9bacf18b482b130a",
         "type": "tabs",
         "children": [
           {
-            "id": "23ca37c577b83974",
+            "id": "e1de01cca5e873d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conteudos/cibersegurança/2024-03-11.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-26.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudos/cibersegurança/2024-03-11.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudos/cibersegurança/2024-03-11.md",
+                "file": "conteudos/Interação Humano Computador/2024-03-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudos/cibersegurança/2024-03-11.md"
+                "file": "conteudos/Interação Humano Computador/2024-03-26.md"
               }
             }
           },
@@ -155,13 +155,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "23ca37c577b83974",
+  "active": "e1de01cca5e873d5",
   "lastOpenFiles": [
+    "assets/lei_fitts-ihc.jpg",
+    "conteudos/Interação Humano Computador/2024-03-05.md",
+    "conteudos/Interação Humano Computador/2024-03-26.md",
+    "conteudos/Interação Humano Computador/2024-02-20.md",
+    "!usuarios_dados-ihc.png.md",
+    "assets/area_multidiciplinar-ihc.jpg",
+    "assets/usuarios_dados-ihc.png",
+    "conteudos/Interação Humano Computador/2024-02-27.md",
+    "assets/dif_visoes_cons_sis_int-ihc.jpg",
+    "assets/dif_visoes_cons_sis_int.jpg",
+    "conteudos/cibersegurança/2024-03-11.md",
     "conteudos/cibersegurança/2024-03-04/kali linux.md",
     "conteudos/cibersegurança/2024-03-04/Instalação do (Virtual Machine - Kali Linux).md",
     "conteudos/cibersegurança/2024-03-04/Desafios Únicos.md",
     "conteudos/cibersegurança/2024-03-04/A melhor Defesa é o Ataque.md",
-    "conteudos/cibersegurança/2024-03-11.md",
     "conteudos/cibersegurança/2024-03-04/Visão Geral da Disciplina.md",
     "conteudos/cibersegurança/2024-03-04/Três pilares.md",
     "conteudos/cibersegurança/2024-03-04/Sobre sua Atitude Mental.md",
@@ -169,11 +179,8 @@
     "conteudos/inteligencia corporativa/Modelo de negócios.md",
     "conteudos/Projeto Integrador/2024-02-20.md",
     "conteudos/Estrutura de Dados/2024-02-29.md",
-    "conteudos/Interação Humano Computador/2024-03-05.md",
     "conteudos/cibersegurança",
     "assets/05032024-idh-2.jpg",
-    "conteudos/Interação Humano Computador/2024-02-27.md",
-    "conteudos/Interação Humano Computador/2024-02-20.md",
     "assets/05032024-ihc.png",
     "Requisitos Funcionais.md",
     "conteudos/Interação Humano Computador/Requisitos Funcionais.md",
@@ -195,10 +202,6 @@
     "conteudos/Roadmap Flutter/RxNotifier.md",
     "conteudos/Roadmap Flutter/Roadmap.md",
     "conteudos/Roadmap Flutter/Package ASP.md",
-    "conteudos/Roadmap Flutter/Hive.md",
-    "conteudos/Roadmap Flutter/Dio.md",
-    "conteudos/Roadmap Flutter/Flutter Modular.md",
-    "assets/clean_dart.png",
-    "assets/clean_dart 1.png"
+    "assets/clean_dart.png"
   ]
 }
